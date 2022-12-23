@@ -18,6 +18,7 @@ function Gombal4() {
 <>    
     <center>
         <h1>I Love Youuuuuuuuuuu Bebiihhhh</h1>
+        <p>Semoga ini bisa menghibur kamuuu di hari ini yaaahhh</p>
         <br/>
         <img src="https://media.tenor.com/6W3uiyAxkXUAAAAi/tkthao219-bubududu.gif" width={200}/>
         <br/>
