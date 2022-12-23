@@ -34,7 +34,8 @@ function Gombal4() {
         <br/>
         <br/>
         <br/>
-        <h5>dari Vania Sasikirana cihuuuy</h5>
+        <h5>dari Vania Sasikirana yang cantik membahenol cihuuuy</h5>
+        <p>23 Desember 2022</p>
     </center>
     <script src="./App.js"></script>
 </>    )
