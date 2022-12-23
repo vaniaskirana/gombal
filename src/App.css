@@ -1,0 +1,23 @@
+.ayaangbutton {
+background-color: pink;
+color: brown;
+border-radius: 10px;
+} 
+.ayaangbutton:hover {
+background-color: brown;
+color: pink;
+border-radius: 10px;
+} 
+
+.ayaangbutton1:hover {
+background-color: pink;
+color: brown;
+border-radius: 10px;
+} 
+.ayaangbutton1 {
+background-color: brown;
+color: white;
+border-radius: 10px;
+/* font-size: 12px; */
+} 
+
