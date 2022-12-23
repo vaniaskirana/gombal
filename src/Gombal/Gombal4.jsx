@@ -31,6 +31,10 @@ function Gombal4() {
         {/* <Link to="/gombal3"><button className='ayaangbutton' onClick={Macama}>Lanjutt yuuukkkk </button></Link> */}
         <br/>
         <Link to="/"><h5>Kembali ke awalll</h5></Link>
+        <br/>
+        <br/>
+        <br/>
+        <h5>dari Vania Sasikirana cihuuuy</h5>
     </center>
     <script src="./App.js"></script>
 </>    )
